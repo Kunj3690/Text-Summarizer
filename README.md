@@ -1,0 +1,1 @@
+Text Summarizer is a straightforward project that turns long text into short summaries using NLP techniques. It serves as a beginner project for those learning natural language processing and practical model integration. This repository has everything you need to run a local summarization tool, test it with sample text, and integrate it into a larger pipeline or web app.
