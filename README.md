@@ -2,7 +2,8 @@
 
 A web-based text summarization application built with Flask that provides two different summarization techniques: **Extractive** and **Abstractive** summarization.
 
-![Text Summarizer Application](screenshot.png)
+![Text Summarizer Application](<img width="425" height="416" alt="screenshot" src="https://github.com/user-attachments/assets/d5cff562-478f-44b0-82a1-09dd3522058a" />)
+
 
 ## Description
 
@@ -110,3 +111,4 @@ Summarizer/
 ## License
 
 This project is open source and available for educational purposes.
+
